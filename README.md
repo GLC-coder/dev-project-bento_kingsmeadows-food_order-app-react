@@ -1,6 +1,4 @@
-#Getting Started with Bento KingsMeadows Food Order Web App
-
-# Getting Started
+# Getting Started with Bento KingsMeadows Food Order Web App
 
 ## Website URL
 
